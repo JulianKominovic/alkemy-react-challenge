@@ -8,10 +8,13 @@
 # testing
 /coverage
 
-# production
-/build
+# development
+/src
+/public
+/cypress
 
-
+#env
+.env
 
 # misc
 .DS_Store
