@@ -41,7 +41,7 @@ const Details = (): JSX.Element => {
       <CustomNavbar></CustomNavbar>
 
       <Container
-        className="px-4 align-items-center"
+        className="px-4 pb-5 align-items-center"
         style={{ maxWidth: "1024px" }}
       >
         {status === "ok" ? (

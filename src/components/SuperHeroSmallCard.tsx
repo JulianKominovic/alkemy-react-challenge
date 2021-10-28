@@ -58,7 +58,7 @@ const SuperHeroSmallCard = ({
       ) : (
         <Col
           style={{
-            minWidth: "160px",
+            minWidth: "180px",
             position: "relative",
           }}
         >
