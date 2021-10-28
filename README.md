@@ -1,46 +1,90 @@
-# Getting Started with Create React App
+:star:Alkemy React challenge
+======
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## :boom: Superheroes challenge from Alkemy React labs selection process by Julian Ezequiel Kominovic.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `yarn start`
+<a href="https://jk-alkemy-react-challenge.vercel.app/" target="_blank">
+<img src="https://img.shields.io/github/deployments/JulianKominovic/alkemy-react-challenge/Production?label=vercel&logo=vercel&logoColor=white&style=for-the-badge"/>
+</a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+-------
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Take a look!
+### :computer: Click down below to live demo 
+<a href="https://jk-alkemy-react-challenge.vercel.app/" target="_blank">
+<img src="https://img.shields.io/github/deployments/JulianKominovic/alkemy-react-challenge/Production?label=vercel&logo=vercel&logoColor=white&style=for-the-badge"/>
+</a>
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ -------
 
-### `yarn build`
+### :mag_right: Features
+- Login screen.
+- See your team statistics.
+- Add new heroes and villain.
+- Make your custom team.
+- Choose 6 out of almost 750 heroes and villains.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> Your team will be saved on your LocalStorage.
+> Your team must be balanced, 3 heroes and 3 villains.  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ -------
+ 
+ ### :hammer: Tech stack.
+ #### Backend
+ 
+![node badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![express badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Frontend
 
-### `yarn eject`
+![typescript badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![react badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![boostrap badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### Working Tools
+  ![Git](https://img.shields.io/badge/-Git-FFB740?style=for-the-badge&logo=Git&labelColor=000)
+  ![GitHub](https://img.shields.io/badge/-GitHub-FFB740?style=for-the-badge&logo=Github&labelColor=000)
+  ![Markdown](https://img.shields.io/badge/-Markdown-FFB740?style=for-the-badge&logo=Markdown&labelColor=000)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFB740?style=for-the-badge&logo=visual-studio-code&labelColor=000)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Libraries
+- Formik
+- Axios
+- React-router-dom
+- Yup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Testing
+- Cypress
+- Jest
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### APIs
+- Alkemy API (private api)
+- [SuperHero API](https://superheroapi.com/)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+------
+
+### :pushpin: Contact
+
+<a href="https://www.linkedin.com/in/jkominovic/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:juliankominovic@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://jkportfolio.web.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-jkportfolio.web.app-FFB740?style=for-the-badge&logo=google-chrome&labelColor=000"></a>
+
+
+------
+
+### :ok_hand: Made by Julian Ezequiel Kominovic.
+
+
+
+
